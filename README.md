@@ -12,7 +12,7 @@ As the **App Developer**, I:
 ## Key Deliverables
 - [Shiny App](ShinyApp.R) 
 - [Project Report](Project%20Report.pdf)
-- [Used Dataset](data/train.csv)
+- [Shiny App Dataset](train.csv)
 
 ## Skills Applied
 - R Programming
