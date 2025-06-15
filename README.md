@@ -10,8 +10,9 @@ As the **App Developer**, I:
 - Developed detailed documentation explaining the app’s features and usage
 
 ## Key Deliverables
-- [ShinyApp.R](ShinyApp.R) 
-- [Project Report.pdf](Project%20Report.pdf) 
+- [Shiny App](ShinyApp.R) 
+- [Project Report](Project%20Report.pdf)
+- [Used Dataset](data/train.csv)
 
 ## Skills Applied
 - R Programming
